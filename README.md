@@ -10,3 +10,5 @@ sudo chmod +x /usr/local/bin/artisan
 ```
 now you can use the global command ```artisan``` :)
 
+Note: if you using LAMPP server replace ```#!/usr/bin/env php``` with ```#!/opt/lampp/bin/php``` in artisan file
+
